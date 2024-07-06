@@ -1,0 +1,68 @@
+baseURL = 'https://kylekincer.com'
+languageCode = 'en-us'
+title = 'kyle kincer'
+theme = 'Typo'
+
+[params]
+# Meta description
+description = "hello!"
+
+# Appearance settings
+theme = 'dark'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'hi!'
+homeIntroContent = """
+i'm a software engineer and musician. i love to create and learn new things. 
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'recent'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kyle-kincer/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/KyleKincer"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

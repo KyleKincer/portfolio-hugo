@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width"><meta name="description" content="Local police activity iOS app in Swift/SwiftUI" />
+
+<title>
+    
+    FWPD Scanner | kyle kincer
+    
+</title>
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.06be76fa25e4ecb4d473373b74760273efe3314b6eb608effa9c2b6a617d92e2.css" media="all">
+
+
+
+  </head>
+
+  
+
+  
+  
+  
+
+  <body class="dark">
+
+    <div class="content">
+      <header>
+        
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">kyle kincer</h1>
+
+    <div class="flex">
+        
+
+        
+        
+        <p class="small ">
+            <a href="/">
+                /home
+            </a>
+        </p>
+        
+        <p class="small ">
+            <a href="/posts">
+                /posts
+            </a>
+        </p>
+        
+        <p class="small ">
+            <a href="/about">
+                /about
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+      </header>
+
+      <main class="main">
+        
+
+
+
+
+<div class="breadcrumbs">
+    
+    <a href="/">Home</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a href="/posts/">Posts</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a class="breadcrumbs-current" href="/posts/fwpd-scanner/">FWPD Scanner</a>
+</div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">FWPD Scanner</h1>
+    
+    <p class="single-summary">Local police activity iOS app in Swift/SwiftUI</p>
+    
+
+    
+
+    <p class="single-readtime">
+      
+      
+      
+      <time datetime="2023-11-18T22:03:09-04:00">November 18, 2023</time>
+      
+
+      
+      &nbsp; · &nbsp;
+      2 min read
+      
+    </p>
+
+  </div>
+
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <h3 id="local-police-activity-monitoring-for-ios">Local police activity monitoring for iOS</h3>
+<p>FWPD Scanner brings Fort Wayne, Indiana&rsquo;s police activity log to your iOS device with compelling features like maps, location-based notifications, commenting and social integrations, filtering, and more.</p>
+<p>The app is built with SwiftUI and uses Firebase for authentication, Firestore for data storage, and Cloud Functions for server-side logic.</p>
+<h3 id="links">Links</h3>
+<ul>
+<li><a href="https://apps.apple.com/tt/app/fwpd-scanner/id1605283140">App Store</a></li>
+<li><a href="https://github.com/KyleKincer/FWPD-Scanner">GitHub</a></li>
+</ul>
+<h3 id="screenshots">Screenshots</h3>
+<p>
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 1" src=" /images/Scanner-screenshot1.png">
+    </div>
+
+    
+</figure></p>
+<h2 id="features">Features</h2>
+<h3 id="maps">Maps</h3>
+<p>The app uses Apple Maps to display the location of each incident in relation to the user&rsquo;s current location.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 3" src=" /images/Scanner-screenshot3.png">
+    </div>
+
+    
+</figure></p>
+<h3 id="location-based-notifications">Location-based notifications</h3>
+<p>Users can set up notifications to be alerted when an incident occurs within a certain distance of their current location, or when an incident of a certain type occurs anywhere.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 5" src=" /images/Scanner-screenshot5.png">
+    </div>
+
+    
+</figure></p>
+<h3 id="commenting-and-social-integrations">Commenting and social integrations</h3>
+<p>Users can create an account or sign in with Google to comment on incidents and view other users&rsquo; comments and profiles.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 2" src=" /images/Scanner-screenshot2.png">
+    </div>
+
+    
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 4" src=" /images/Scanner-screenshot4.png">
+    </div>
+
+    
+</figure></p>
+<h3 id="filtering">Filtering</h3>
+<p>Users can filter incidents by type, date, and distance from their location.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+<figure class="">
+
+    <div>
+        <img loading="lazy" alt="Screenshot 6" src=" /images/Scanner-screenshot6.jpeg">
+    </div>
+
+    
+</figure></p>
+<h2 id="implementation">Implementation</h2>
+<h3 id="scraper">Scraper</h3>
+<p>The app uses a Python script to scrape the Fort Wayne Police Department&rsquo;s activity log and post the data to Firestore. The script runs on a schedule using Cloud Functions.</p>
+<h3 id="firestore">Firestore</h3>
+<p>The app uses Firestore to store all data, including user accounts, incidents, and comments.</p>
+<h3 id="cloud-messaging">Cloud Messaging</h3>
+<p>The app uses Cloud Messaging to send notifications to users when incidents occur that they are subscribed to.</p>
+<h3 id="swiftui">SwiftUI</h3>
+<p>The iOS app is built entirely with SwiftUI.</p>
+
+    
+  </div>
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flex">
+
+        <div class="single-pagination-prev">
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/sweetflags/">
+                        SweetFlags
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+      </main>
+    </div>
+
+    <footer>
+      <p>Powered by
+    <a href="https://gohugo.io/">Hugo</a>
+    and
+    <a href="https://github.com/tomfran/typo">tomfran/typo</a>
+</p>
+
+
+    </footer>
+
+  </body>
+
+  <script>
+
+  function isAuto() {
+    return document.body.classList.contains("auto");
+  }
+
+  function setTheme() {
+    if (!isAuto()) {
+      return
+    }
+
+    document.body.classList.remove("auto");
+    let cls = "light";
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      cls = "dark";
+    }
+
+    document.body.classList.add(cls);
+  }
+
+  function invertBody() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+
+  if (isAuto()) {
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
+  }
+
+  setTheme();
+
+</script>
+
+</html>

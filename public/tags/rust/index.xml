@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rust on kyle kincer</title>
+    <link>http://localhost:1313/tags/rust/</link>
+    <description>Recent content in Rust on kyle kincer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 22:03:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solvataire</title>
+      <link>http://localhost:1313/posts/solvataire/</link>
+      <pubDate>Sun, 03 Mar 2024 22:03:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/solvataire/</guid>
+      <description>A brute-force solver for the game Peg Solitaire in Rust.</description>
+    </item>
+  </channel>
+</rss>

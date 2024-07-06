@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typescript on kyle kincer</title>
+    <link>http://localhost:1313/tags/typescript/</link>
+    <description>Recent content in Typescript on kyle kincer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 22:03:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SweetFlags</title>
+      <link>http://localhost:1313/posts/sweetflags/</link>
+      <pubDate>Sun, 19 Nov 2023 22:03:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/sweetflags/</guid>
+      <description>A feature flag and config service utilizing Typescript, MongoDB, Redis, and Vue.js</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width"><meta name="description" content="a brute-force solver for the game Peg Solitaire in Rust." />
+
+<title>
+    
+    solvataire | kyle kincer
+    
+</title>
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.06be76fa25e4ecb4d473373b74760273efe3314b6eb608effa9c2b6a617d92e2.css" media="all">
+
+
+
+  </head>
+
+  
+
+  
+  
+  
+
+  <body class="dark">
+
+    <div class="content">
+      <header>
+        
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">kyle kincer</h1>
+
+    <div class="flex">
+        
+
+        
+        
+        <p class="small ">
+            <a href="/">
+                /home
+            </a>
+        </p>
+        
+        <p class="small ">
+            <a href="/posts">
+                /posts
+            </a>
+        </p>
+        
+        <p class="small ">
+            <a href="/about">
+                /about
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+      </header>
+
+      <main class="main">
+        
+
+
+
+
+<div class="breadcrumbs">
+    
+    <a href="/">Home</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a href="/posts/">Posts</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a class="breadcrumbs-current" href="/posts/solvataire/">solvataire</a>
+</div>
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">solvataire</h1>
+    
+    <p class="single-summary">a brute-force solver for the game Peg Solitaire in Rust.</p>
+    
+
+    
+
+    <p class="single-readtime">
+      
+      
+      
+      <time datetime="2024-03-03T22:03:09-04:00">March 3, 2024</time>
+      
+
+      
+      &nbsp; · &nbsp;
+      1 min read
+      
+    </p>
+
+  </div>
+
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <h3 id="a-peg-solitaire-solver">a peg solitaire solver</h3>
+<p>if you&rsquo;re anything like me, you&rsquo;ve been called an <a href="https://blog.crackerbarrel.com/2021/08/13/how-to-beat-the-cracker-barrel-peg-game/"><strong>eg-no-ra-moose</strong></a> by that silly peg game at Cracker Barrel one too many times. i&rsquo;d had enough.</p>
+<p>Solvataire is a brute-force solver for the game <a href="https://en.wikipedia.org/wiki/Peg_solitaire">Peg Solitaire</a>, written in Rust. it uses a recursive depth-first search to solve the game. it&rsquo;s currently only implemented for the triangle board commonly found at Cracker Barrel™️  restaurants, but i plan to support the English boards at some point.</p>
+<h3 id="links">links</h3>
+<ul>
+<li><a href="https://github.com/KyleKincer/solvataire">GitHub</a></li>
+</ul>
+<h2 id="implementation">implementation</h2>
+<h3 id="algorithm">algorithm</h3>
+<p>the solver uses a recursive backtracking algorithm to find the shortest sequence of moves to solve the game. it starts with an initial board state and explores all possible moves from that state, recursively searching until it finds a solution.</p>
+<h3 id="performance">performance</h3>
+<p>the solver is multithreaded, using Rust&rsquo;s <code>rayon</code> library to parallelize the search.</p>
+
+    
+  </div>
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flex">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/posts/sweetflags/">
+                        SweetFlags
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+            <div class="single-pagination-container-next">
+                <div class="single-pagination-text">
+                    <a href="/posts/superjuice-go/">
+                        superjuice go
+                    </a>
+                </div>
+                <div class="single-pagination-text">→</div>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+      </main>
+    </div>
+
+    <footer>
+      <p>Powered by
+    <a href="https://gohugo.io/">Hugo</a>
+    and
+    <a href="https://github.com/tomfran/typo">tomfran/typo</a>
+</p>
+
+
+    </footer>
+
+  </body>
+
+  <script>
+
+  function isAuto() {
+    return document.body.classList.contains("auto");
+  }
+
+  function setTheme() {
+    if (!isAuto()) {
+      return
+    }
+
+    document.body.classList.remove("auto");
+    let cls = "light";
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      cls = "dark";
+    }
+
+    document.body.classList.add(cls);
+  }
+
+  function invertBody() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+
+  if (isAuto()) {
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
+  }
+
+  setTheme();
+
+</script>
+
+</html>
