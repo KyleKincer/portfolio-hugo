@@ -1,7 +1,7 @@
 baseURL = 'https://kylekincer.com'
 languageCode = 'en-us'
 title = 'kyle kincer'
-theme = 'Typo'
+theme = 'typo'
 
 [params]
 # Meta description
