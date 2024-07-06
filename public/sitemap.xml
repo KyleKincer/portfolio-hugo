@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://kylekincer.com/tags/go/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://kylekincer.com/tags/golang/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kylekincer.com/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/htmx/</loc>
+    <loc>https://kylekincer.com/tags/htmx/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kylekincer.com/posts/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/superjuice-go/</loc>
+    <loc>https://kylekincer.com/posts/superjuice-go/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kylekincer.com/tags/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/templ/</loc>
+    <loc>https://kylekincer.com/tags/templ/</loc>
     <lastmod>2024-07-05T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
+    <loc>https://kylekincer.com/tags/rust/</loc>
     <lastmod>2024-03-03T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/solvataire/</loc>
+    <loc>https://kylekincer.com/posts/solvataire/</loc>
     <lastmod>2024-03-03T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mongodb/</loc>
+    <loc>https://kylekincer.com/tags/mongodb/</loc>
     <lastmod>2023-11-19T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/redis/</loc>
+    <loc>https://kylekincer.com/tags/redis/</loc>
     <lastmod>2023-11-19T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sweetflags/</loc>
+    <loc>https://kylekincer.com/posts/sweetflags/</loc>
     <lastmod>2023-11-19T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/typescript/</loc>
+    <loc>https://kylekincer.com/tags/typescript/</loc>
     <lastmod>2023-11-19T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud-functions/</loc>
+    <loc>https://kylekincer.com/tags/cloud-functions/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/firebase/</loc>
+    <loc>https://kylekincer.com/tags/firebase/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/firestore/</loc>
+    <loc>https://kylekincer.com/tags/firestore/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fwpd-scanner/</loc>
+    <loc>https://kylekincer.com/posts/fwpd-scanner/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://kylekincer.com/tags/python/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/swift/</loc>
+    <loc>https://kylekincer.com/tags/swift/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/swiftui/</loc>
+    <loc>https://kylekincer.com/tags/swiftui/</loc>
     <lastmod>2023-11-18T22:03:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kylekincer.com/categories/</loc>
   </url>
 </urlset>
