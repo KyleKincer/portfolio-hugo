@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kyle kincer</title>
-    <link>https://kylekincer.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on kyle kincer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 22:03:09 -0400</lastBuildDate>
-    <atom:link href="https://kylekincer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go</title>
-      <link>https://kylekincer.com/tags/go/</link>
+      <link>http://localhost:1313/tags/go/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/go/</guid>
+      <guid>http://localhost:1313/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://kylekincer.com/tags/golang/</link>
+      <link>http://localhost:1313/tags/golang/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/golang/</guid>
+      <guid>http://localhost:1313/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Htmx</title>
-      <link>https://kylekincer.com/tags/htmx/</link>
+      <link>http://localhost:1313/tags/htmx/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/htmx/</guid>
+      <guid>http://localhost:1313/tags/htmx/</guid>
       <description></description>
     </item>
     <item>
       <title>Templ</title>
-      <link>https://kylekincer.com/tags/templ/</link>
+      <link>http://localhost:1313/tags/templ/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/templ/</guid>
+      <guid>http://localhost:1313/tags/templ/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>https://kylekincer.com/tags/rust/</link>
+      <link>http://localhost:1313/tags/rust/</link>
       <pubDate>Sun, 03 Mar 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/rust/</guid>
+      <guid>http://localhost:1313/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongodb</title>
-      <link>https://kylekincer.com/tags/mongodb/</link>
+      <link>http://localhost:1313/tags/mongodb/</link>
       <pubDate>Sun, 19 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/mongodb/</guid>
+      <guid>http://localhost:1313/tags/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>https://kylekincer.com/tags/redis/</link>
+      <link>http://localhost:1313/tags/redis/</link>
       <pubDate>Sun, 19 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/redis/</guid>
+      <guid>http://localhost:1313/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Typescript</title>
-      <link>https://kylekincer.com/tags/typescript/</link>
+      <link>http://localhost:1313/tags/typescript/</link>
       <pubDate>Sun, 19 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/typescript/</guid>
+      <guid>http://localhost:1313/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud Functions</title>
-      <link>https://kylekincer.com/tags/cloud-functions/</link>
+      <link>http://localhost:1313/tags/cloud-functions/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/cloud-functions/</guid>
+      <guid>http://localhost:1313/tags/cloud-functions/</guid>
       <description></description>
     </item>
     <item>
       <title>Firebase</title>
-      <link>https://kylekincer.com/tags/firebase/</link>
+      <link>http://localhost:1313/tags/firebase/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/firebase/</guid>
+      <guid>http://localhost:1313/tags/firebase/</guid>
       <description></description>
     </item>
     <item>
       <title>Firestore</title>
-      <link>https://kylekincer.com/tags/firestore/</link>
+      <link>http://localhost:1313/tags/firestore/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/firestore/</guid>
+      <guid>http://localhost:1313/tags/firestore/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://kylekincer.com/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Swift</title>
-      <link>https://kylekincer.com/tags/swift/</link>
+      <link>http://localhost:1313/tags/swift/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/swift/</guid>
+      <guid>http://localhost:1313/tags/swift/</guid>
       <description></description>
     </item>
     <item>
       <title>SwiftUI</title>
-      <link>https://kylekincer.com/tags/swiftui/</link>
+      <link>http://localhost:1313/tags/swiftui/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/tags/swiftui/</guid>
+      <guid>http://localhost:1313/tags/swiftui/</guid>
       <description></description>
     </item>
   </channel>

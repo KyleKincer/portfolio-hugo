@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on kyle kincer</title>
-    <link>https://kylekincer.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on kyle kincer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 22:03:09 -0400</lastBuildDate>
-    <atom:link href="https://kylekincer.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>superjuice go</title>
-      <link>https://kylekincer.com/posts/superjuice-go/</link>
+      <link>http://localhost:1313/posts/superjuice-go/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/posts/superjuice-go/</guid>
+      <guid>http://localhost:1313/posts/superjuice-go/</guid>
       <description>superjuice recipe calculator in Go + HTMX</description>
     </item>
     <item>
       <title>solvataire</title>
-      <link>https://kylekincer.com/posts/solvataire/</link>
+      <link>http://localhost:1313/posts/solvataire/</link>
       <pubDate>Sun, 03 Mar 2024 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/posts/solvataire/</guid>
+      <guid>http://localhost:1313/posts/solvataire/</guid>
       <description>a brute-force solver for the game Peg Solitaire in Rust.</description>
     </item>
     <item>
       <title>SweetFlags</title>
-      <link>https://kylekincer.com/posts/sweetflags/</link>
+      <link>http://localhost:1313/posts/sweetflags/</link>
       <pubDate>Sun, 19 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/posts/sweetflags/</guid>
+      <guid>http://localhost:1313/posts/sweetflags/</guid>
       <description>a feature flag and config service utilizing typescript, mongodb, redis, and vue.js</description>
     </item>
     <item>
       <title>FWPD Scanner</title>
-      <link>https://kylekincer.com/posts/fwpd-scanner/</link>
+      <link>http://localhost:1313/posts/fwpd-scanner/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>https://kylekincer.com/posts/fwpd-scanner/</guid>
+      <guid>http://localhost:1313/posts/fwpd-scanner/</guid>
       <description>Local police activity iOS app in Swift/SwiftUI</description>
     </item>
   </channel>
