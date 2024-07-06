@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Functions on kyle kincer</title>
-    <link>http://localhost:1313/tags/cloud-functions/</link>
+    <link>https://kylekincer.com/tags/cloud-functions/</link>
     <description>Recent content in Cloud Functions on kyle kincer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Nov 2023 22:03:09 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cloud-functions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kylekincer.com/tags/cloud-functions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FWPD Scanner</title>
-      <link>http://localhost:1313/posts/fwpd-scanner/</link>
+      <link>https://kylekincer.com/posts/fwpd-scanner/</link>
       <pubDate>Sat, 18 Nov 2023 22:03:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/fwpd-scanner/</guid>
+      <guid>https://kylekincer.com/posts/fwpd-scanner/</guid>
       <description>Local police activity iOS app in Swift/SwiftUI</description>
     </item>
   </channel>

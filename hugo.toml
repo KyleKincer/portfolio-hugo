@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'kyle kincer'
 theme = 'typo'
 
-[[module.imports]]
-path = "github.com/tomfran/typo"
-
 [params]
 # Meta description
 description = "hello!"

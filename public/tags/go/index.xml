@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on kyle kincer</title>
-    <link>http://localhost:1313/tags/go/</link>
+    <link>https://kylekincer.com/tags/go/</link>
     <description>Recent content in Go on kyle kincer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jul 2024 22:03:09 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kylekincer.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Superjuice Go</title>
-      <link>http://localhost:1313/posts/superjuice-go/</link>
+      <title>superjuice go</title>
+      <link>https://kylekincer.com/posts/superjuice-go/</link>
       <pubDate>Fri, 05 Jul 2024 22:03:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/superjuice-go/</guid>
+      <guid>https://kylekincer.com/posts/superjuice-go/</guid>
       <description>superjuice recipe calculator in Go + HTMX</description>
     </item>
   </channel>
